@@ -10,4 +10,6 @@ after_success:
   - coveralls
 addons:
   sonarcloud:
-    organization: jwoytek
+    organization: "iamwoos"
+	token:
+      secure: "6b1526367a34eeedd95d9332e4907539f43383a0"
